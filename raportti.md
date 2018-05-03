@@ -15,4 +15,5 @@ Kirjoitin terminaaliin:
 Tämän jälkeen terminaali rupesi laulamaan ja asetukset muuttui + ohjelmat asentui.
 
 lähteet: https://github.com/terokarvinen/sirotin
-
+	 http://terokarvinen.com/2016/publish-your-project-with-github
+	 
